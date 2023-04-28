@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm NAlin Sahani:
+## I'm Nalin Sahani:
 
 🌱 I’m currently learning Reactjs
 
