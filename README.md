@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Reactjs
 
-##### 📫 How to reach me:
+##### 📫 How to reach me me with the links below
 
 <!-- [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston) -->
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalinsahani01010@gmail.com)
