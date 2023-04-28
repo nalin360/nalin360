@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I'm Nalin Sahani:
-![](https://github.com/nalin360/nalinSahani.gif)
+<!-- ![](https://github.com/nalin360/nalinSahani.gif) -->
 🌱 I’m currently learning Reactjs
 
 ##### 📫 How to reach me me with the links below
