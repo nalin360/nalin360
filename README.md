@@ -1,5 +1,5 @@
-## Hi there 👋
-## I'm Nalin Sahani:
+# Hi there 👋
+# I'm Nalin Sahani
 <!-- ![](https://github.com/nalin360/nalin360/blob/main/Nalin%20Sahai.gif)  -->
 <img src="https://github.com/nalin360/nalin360/blob/main/Nalin%20Sahai.gif" width="250" height="250"/>
 <!-- ![](https://www.canva.com/design/DAFhX3WSIkI/3_acG7GmCqFwi2yvtlwWew/edit?utm_content=DAFhX3WSIkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
