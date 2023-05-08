@@ -4,7 +4,7 @@
 <img src="https://github.com/nalin360/nalin360/blob/main/Nalin%20Sahai.gif" width="250" height="250"/>
 <!-- ![](https://www.canva.com/design/DAFhX3WSIkI/3_acG7GmCqFwi2yvtlwWew/edit?utm_content=DAFhX3WSIkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  -->
-###🌱 I’m currently learning Reactjs
+🌱 I’m currently learning Reactjs
 
 ## 📫 How to reach me me with the links below
 
